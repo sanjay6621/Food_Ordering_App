@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_splash1_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_splash1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_splash_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_background.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_splash1_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_splash1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_splash_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_splash.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\layout_login_actvity.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\layout\\login_actvity.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_background_splash_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_background_splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-anydpi-v26_ic_background_splash_round.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-anydpi-v26\\ic_background_splash_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_splash1_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_splash1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-anydpi-v26_ic_splash_round.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-anydpi-v26\\ic_splash_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_splash_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-anydpi-v26_ic_splash.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-anydpi-v26\\ic_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-anydpi-v26_ic_background_round.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-anydpi-v26\\ic_background_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_splash.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\layout_place_order_recycler_row.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\layout\\place_order_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\layout_activity_restaurant_menu.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_background.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\layout_menu_recycler_row.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\layout\\menu_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\drawable_ic_remove_circle.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\drawable\\ic_remove_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_background_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_background_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_splash_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_splash_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_background_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_background_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_background_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_background_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\raw_restaurent.json.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\raw\\restaurent.json"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_splash.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\layout_activity_order_succeess.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\layout\\activity_order_succeess.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_splash1_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_splash1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\layout_recycler_row.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_background_splash.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_background_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_background_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_background_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_splash_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_background_splash.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_background_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\drawable_ic_fsplash.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\drawable\\ic_fsplash.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_background_splash.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_background_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_background_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_background_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_background.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_background_splash.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_background_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_splash_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\drawable_ic_background_splash_background.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\drawable\\ic_background_splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_background_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_background_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_splash.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_splash_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\drawable_ic_splash_background.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\drawable\\ic_splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_background_splash_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_background_splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_background_splash_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_background_splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\layout_activity_place_your_order.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_background_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_background_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_background.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_splash.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_splash1_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_splash1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-mdpi_ic_splash_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-mdpi\\ic_splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_splash_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\drawable_ic_background_background.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\drawable\\ic_background_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_background.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-hdpi_ic_background_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-hdpi\\ic_background_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-anydpi-v26_ic_background.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-anydpi-v26\\ic_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_background_foreground.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_background_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_background_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_background_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_background_splash.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_background_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-anydpi-v26_ic_background_splash.xml.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-anydpi-v26\\ic_background_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xhdpi_ic_background_splash_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xhdpi\\ic_background_splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxhdpi_ic_background_splash_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxhdpi\\ic_background_splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-16:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dddd\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-18:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
